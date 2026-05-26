@@ -1,26 +1,25 @@
 title: Data Lab Training
-training_title: MONTH-TOPIC
+training_title: 2026 June Advanced Single-cell RNA-Seq Workshop
 # The name of the repository (e.g., 2020-may-training)
 # We use training-specific-template to help with development
-repository: training-specific-template
+repository: 2026-june-training
 # Full URL to the repository
 # Again, using training-specific-template to aid in development
-repository_url: https://github.com/AlexsLemonade/training-specific-template
-start_date: YYYY-MM-DD
-end_date: YYYY-MM-DD
+repository_url: https://github.com/AlexsLemonade/2026-june-training
+start_date: 2026-06-08
+end_date: 2026-06-12
 # Specific release in AlexsLemonade/training-modules
 # We use master to make development easier
 release_tag: master
 
 #### Workshop information ####
-workshop_type: WORKSHOP # Update this value to either: "remote" or "in-person"
-workshop_content: WORKSHOP # Update this value to one of: "intro-r", "intro-bulk", "intro-single-cell", or "advanced-single-cell"
+workshop_type: "remote"    # Update this value to either: "remote" or "in-person"
+workshop_content: "advanced-single-cell" # Update this value to one of: "intro-r", "intro-bulk", "intro-single-cell", or "advanced-single-cell"
 
 #### Instructor names ####
 # This array should be filled with a list of team members leading a given workshop
 instructors:
   - Ally Hawkins
-  - Jen O'Malley
   - Josh Shapiro
   - Stephanie Spielman
 
