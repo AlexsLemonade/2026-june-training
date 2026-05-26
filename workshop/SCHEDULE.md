@@ -18,7 +18,7 @@ The planned schedule for the June 2026 Data Lab Virtual Training Workshop "Advan
 | 12:00 PM  | [Welcome, Introductions and Getting Started (PDF)](#../slides/2026-06-08_workshop_intro.pdf) | Zoom: [Main Session](../software-setup/zoom-procedures.md#joining-a-zoom-call) |
 | 1:00 PM   | Introduction/Refresher to Single-cell Analysis with R and Bioconductor |
 |           | [Single-cell analysis with R slides (PDF)](#../slides/2026-06-08_scRNAseq_intro.pdf) | |
-|           | [Single-cell analysis with R instruction notebook](#../completed-notebooks/scRNA-seq-advanced/01-read_filter_normalize_scRNA.nb.html) | |
+|           | [Single-cell analysis with R instruction notebook](../completed-notebooks/scRNA-seq-advanced/01-read_filter_normalize_scRNA.nb.html) | |
 | 3:30 PM   | Questions and introduction to the exercises | Zoom: [Breakout Rooms](../software-setup/zoom-procedures.md#using-breakout-rooms) |
 | 4:00 PM   | Exercises and [consultation sessions](workshop-logistics.md#consultation-sessions) | [Slack channel](../software-setup/slack-procedures.md#general-use) |
 |           | [Resources for consultation sessions](./workshop-resources.md)
@@ -28,7 +28,7 @@ The planned schedule for the June 2026 Data Lab Virtual Training Workshop "Advan
 | **Day 2** | **2026-06-09** |        |
 | 12:00 PM  | Integrating multiple scRNA-seq samples|  Zoom: [Main Session](../software-setup/zoom-procedures.md#joining-a-zoom-call) |
 |           | [Integration slides (PDF)](#../slides/2026-06-09_integration.pdf) |   |
-|           | [Integration instruction notebook](#../completed-notebooks/scRNA-seq-advanced/02-dataset_integration.nb.html) |   |
+|           | [Integration instruction notebook](../completed-notebooks/scRNA-seq-advanced/02-dataset_integration.nb.html) |   |
 | 3:30 PM   | Questions and introduction to the exercises |  Zoom: [Breakout Rooms](../software-setup/zoom-procedures.md#using-breakout-rooms) |
 | 4:00 PM   | Exercises and [consultation sessions](workshop-logistics.md#consultation-sessions) | [Slack channel](../software-setup/slack-procedures.md#general-use) |
 |           | [Resources for consultation sessions](./workshop-resources.md)
@@ -37,7 +37,7 @@ The planned schedule for the June 2026 Data Lab Virtual Training Workshop "Advan
 | **Day 3** | **2026-06-10** |        |
 | 12:00 PM  | Differential expression analysis with scRNA-seq | Zoom: [Main Session](../software-setup/zoom-procedures.md#joining-a-zoom-call) |
 |           | [Differential expression slides (PDF)](#../slides/2026-06-10_differential-expression.pdf) |   |
-|           | [Differential expression instruction notebook](#../completed-notebooks/scRNA-seq-advanced/03-differential_expression.nb.html) |   |
+|           | [Differential expression instruction notebook](../completed-notebooks/scRNA-seq-advanced/03-differential_expression.nb.html) |   |
 | 3:30 PM   | Questions and introduction to the exercises |  Zoom: [Breakout Rooms](../software-setup/zoom-procedures.md#using-breakout-rooms) |
 | 4:00 PM   | Exercises and [consultation sessions](workshop-logistics.md#consultation-sessions) | [Slack channel](../software-setup/slack-procedures.md#general-use) |
 |           | [Resources for consultation sessions](./workshop-resources.md)
@@ -47,9 +47,9 @@ The planned schedule for the June 2026 Data Lab Virtual Training Workshop "Advan
 | 12:00 PM  | Pathway analysis with scRNA-seq |
 |           | [Pathway analysis slides (PDF)](#../slides/2026-06-11_pathway-analysis.pdf) |   |
 | 12:30 PM   | Pathway analysis: Gene Set Enrichment Analysis (GSEA) | |
-|           | [GSEA instruction notebook](#../completed-notebooks/scRNA-seq-advanced/04-gene_set_enrichment_analysis.nb.html) | |
+|           | [GSEA instruction notebook](../completed-notebooks/scRNA-seq-advanced/04-gene_set_enrichment_analysis.nb.html) | |
 | 2:00 PM   | Pathway analysis: AUCell | |
-|           | [AUCell instruction notebook](#../completed-notebooks/scRNA-seq-advanced/05-aucell.nb.html) | |
+|           | [AUCell instruction notebook](../completed-notebooks/scRNA-seq-advanced/05-aucell.nb.html) | |
 | 3:30 PM   | Questions and introduction to the exercises | Zoom: [Breakout Rooms](../software-setup/zoom-procedures.md#using-breakout-rooms) |
 | 4:00 PM   | Exercises and [consultation sessions](workshop-logistics.md#consultation-sessions) | [Slack channel](../software-setup/slack-procedures.md#general-use) |
 |           | [Resources for consultation sessions](./workshop-resources.md) |
